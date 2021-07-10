@@ -56,4 +56,4 @@ console.log ("The volume of the cube is " + v);
 // 5.
 let edge = prompt ("enter cube edge length");
 
-console.log ("The volume of the cube is " + Math.pow(z, 3));
+console.log ("The volume of the cube is " + Math.pow(edge, 3));
